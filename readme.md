@@ -8,7 +8,7 @@
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) ![NextJs](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat)
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat)
 
 ### Education
 **Visvesvaraya Technological University, CIT, BENGALURU**  
