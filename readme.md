@@ -15,4 +15,4 @@
 _B.Tech in Information & Science Engineering_  
 _CGPA: 8.6/10_
 
-Feel free to reach out to me at [vivekksinghaal@gmail.com](mailto:viveksinghaal@gmail.com).
+Feel free to reach out to me at [viveksinghal5374@gmail.com](mailto:viveksinghal5374@gmail.com).
