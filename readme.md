@@ -11,7 +11,7 @@
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat)
 
 ### Education
-**Cambridge Institute of Technology, BENGALURU**  
+**Cambridge Institute of Technology, Bengaluru**  
 _B.Tech in Information & Science Engineering_  
 _CGPA: 8.6/10_
 
